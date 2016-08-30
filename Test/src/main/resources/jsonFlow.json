@@ -1,0 +1,177 @@
+{
+  "ei": "99",
+  "ea": "99",
+  "name": "user_task_-1193959466",
+  "activities": [
+    {
+      "type": "startEvent",
+      "id": "start"
+    },
+    {
+      "type": "userTask",
+      "id": "salesmen",
+      "assigneeId": "101"
+    },
+    {
+      "type": "exclusiveGateway",
+      "id": "submit",
+      "defaultTransitionId": "default"
+    },
+    {
+      "type": "userTask",
+      "id": "supervisor",
+      "assigneeId": "201"
+    },
+    {
+      "type": "userTask",
+      "id": "manager",
+      "assigneeId": "301"
+    },
+    {
+      "type": "userTask",
+      "id": "director",
+      "assigneeId": "401"
+    },
+    {
+      "type": "exclusiveGateway",
+      "id": "isApproved"
+    },
+    {
+      "type": "userTask",
+      "id": "contract",
+      "assigneeId": "901",
+      "candidateIds": [
+        "1101",
+        "1102",
+        "1103"
+      ],
+      "roleId": "2201"
+    },
+    {
+      "type": "endEvent",
+      "id": "end"
+    }
+  ],
+  "transitions": [
+    {
+      "fromId": "start",
+      "toId": "salesmen"
+    },
+    {
+      "fromId": "salesmen",
+      "toId": "submit"
+    },
+    {
+      "id": "default",
+      "fromId": "submit",
+      "toId": "supervisor",
+      "condition": {
+        "type": "greaterThanOrEqual",
+        "left": {
+          "expression": "discount"
+        },
+        "right": {
+          "value": 0.9,
+          "type": {
+            "name": "number"
+          }
+        }
+      }
+    },
+    {
+      "fromId": "submit",
+      "toId": "manager",
+      "condition": {
+        "type": "greaterThanOrEqual",
+        "left": {
+          "expression": "discount"
+        },
+        "right": {
+          "value": 0.7,
+          "type": {
+            "name": "number"
+          }
+        }
+      }
+    },
+    {
+      "fromId": "submit",
+      "toId": "director",
+      "condition": {
+        "type": "greaterThanOrEqual",
+        "left": {
+          "expression": "discount"
+        },
+        "right": {
+          "value": 0.5,
+          "type": {
+            "name": "number"
+          }
+        }
+      }
+    },
+    {
+      "fromId": "supervisor",
+      "toId": "isApproved"
+    },
+    {
+      "fromId": "manager",
+      "toId": "isApproved"
+    },
+    {
+      "fromId": "director",
+      "toId": "isApproved"
+    },
+    {
+      "fromId": "isApproved",
+      "toId": "contract",
+      "condition": {
+        "type": "equals",
+        "left": {
+          "expression": "action"
+        },
+        "right": {
+          "value": "1",
+          "type": {
+            "name": "text"
+          }
+        }
+      }
+    },
+    {
+      "fromId": "isApproved",
+      "toId": "salesmen",
+      "condition": {
+        "type": "equals",
+        "left": {
+          "expression": "action"
+        },
+        "right": {
+          "value": "2",
+          "type": {
+            "name": "text"
+          }
+        }
+      }
+    },
+    {
+      "fromId": "contract",
+      "toId": "end"
+    }
+  ],
+  "variables": [
+    {
+      "id": "discount",
+      "type": {
+        "name": "number"
+      }
+    },
+    {
+      "id": "action",
+      "type": {
+        "name": "text"
+      }
+    }
+  ],
+  "sourceWorkflowId": "user_task_-1193959466"
+}

@@ -15,6 +15,8 @@
         <module>FreeMarkerDemo</module>
         <module>JetbrickDemo</module>
         <module>MongoDbDemo</module>
+        <module>LogBackDemo</module>
+        <module>ElasticJobDemo</module>
     </modules>
 
     <dependencies>

@@ -3,12 +3,282 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Demo123/pom.xml">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/Demo123/src/test/java/Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/JetbrickDemo/src/main/resources/users.jetx">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/JetbrickDemo/src/test/java/demo/JetxTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/LogBackDemo/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/LogBackDemo/src/main/java/Slf4jTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/LogBackDemo/src/main/resources/logback.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Test/src/main/java/Test2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Test/src/main/java/TestCase.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Test/src/main/resources/WorkflowEntity.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Test/src/main/resources/jsonFlow.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-api/src/main/java/com/facishare/paas/workflow/model/result/BaseResult.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-api/src/main/java/com/facishare/paas/workflow/service/api/ApprovalFlowXTService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-api/src/main/java/com/facishare/paas/workflow/service/api/WorkflowRuleService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-common/src/main/java/com/facishare/paas/workflow/common/constant/StartupRuleConstant.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-kernel-provider/src/main/resources/dubbo-consumer.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-kernel-provider/src/test/java/com/facishare/paas/workflow/kernel/test/Server.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-kernel-provider/src/test/resources/dubbo.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/main/java/com/facishare/paas/workflow/approvalflow/dao/WorkflowScopeDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/main/java/com/facishare/paas/workflow/approvalflow/service/impl/ApprovalFlowXTServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/main/java/com/facishare/paas/workflow/nashorn/ExpressionFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/main/java/com/facishare/paas/workflow/nashorn/WorkflowRuleParser.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/main/java/com/facishare/paas/workflow/quartz/JetBrickTemplateDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/main/java/com/facishare/paas/workflow/quartz/MailTemplate.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/main/java/com/facishare/paas/workflow/quartz/TimingTaskManagerImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/main/java/com/facishare/paas/workflow/workflow/biz/WorkflowRuleBiz.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/main/java/com/facishare/paas/workflow/workflow/biz/WorkflowTrigger.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/main/java/com/facishare/paas/workflow/workflow/dao/WorkflowRuleDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/main/java/com/facishare/paas/workflow/workflow/entity/ExpressionRule.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/main/java/com/facishare/paas/workflow/workflow/entity/LeftSide.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/main/java/com/facishare/paas/workflow/workflow/entity/RightSide.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/main/java/com/facishare/paas/workflow/workflow/entity/StartupRule.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/main/java/com/facishare/paas/workflow/workflow/entity/StartupRuleCriteria.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/main/java/com/facishare/paas/workflow/workflow/entity/WorkflowRule.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/main/java/com/facishare/paas/workflow/workflow/entity/erwer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/main/java/com/facishare/paas/workflow/workflow/service/impl/StartupRuleServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/main/java/com/facishare/paas/workflow/workflow/service/impl/WorkFlowRuleDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/main/java/com/facishare/paas/workflow/workflow/service/impl/WorkflowRuleDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/main/java/com/facishare/paas/workflow/workflow/service/impl/WorkflowRuleService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/main/java/com/facishare/paas/workflow/workflow/service/impl/WorkflowRuleServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/main/java/com/facishare/paas/workflow/workflow/service/impl/WorkflowService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/main/webapp/WEB-INF/dubbo-consumer.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/main/webapp/WEB-INF/dubbo-provider.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/test/java/com/facishare/paas/workflow/biz/WorkflowRuleBizTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/test/java/com/facishare/paas/workflow/biz/WorkflowRuleDaoTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/test/java/com/facishare/paas/workflow/biz/WorkflowTriggerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/test/java/com/facishare/paas/workflow/quartz/TimingTaskManagerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/test/java/com/facishare/paas/workflow/workflow/service/impl/WorkflowRuleBizTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/test/java/com/facishare/paas/workflow/workflow/service/impl/WorkflowRuleDaoTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/test/java/com/facishare/paas/workflow/workflow/service/impl/WorkflowRuleServiceImplTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/test/java/com/facishare/paas/worklfow/NashornNashornEngineTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/test/java/com/facishare/paas/worklfow/approvalflow/service/impl/ApprovalFlowXTServiceImplTest.java">
           <value>
             <set />
           </value>
