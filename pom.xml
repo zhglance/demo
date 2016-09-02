@@ -17,6 +17,7 @@
         <module>MongoDbDemo</module>
         <module>LogBackDemo</module>
         <module>ElasticJobDemo</module>
+        <module>JMockit</module>
     </modules>
 
     <dependencies>

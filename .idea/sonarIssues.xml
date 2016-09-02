@@ -28,6 +28,66 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/JMockit/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/JMockit/src/main/java/DAO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/JMockit/src/main/java/InvokeIntf.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/JMockit/src/main/java/RetVO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/JMockit/src/main/java/Service.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/JMockit/src/main/java/Status.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/JMockit/src/main/java/dffdg.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/JMockit/src/main/java/dfsg.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/JMockit/src/main/java/gdgh.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/JMockit/src/test/java/InvokeIntfTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/JMockit/src/test/java/ServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/JMockito/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/JetbrickDemo/src/main/resources/users.jetx">
           <value>
             <set />
@@ -113,6 +173,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/main/java/com/facishare/paas/workflow/approvalflow/dao/WorkflowScopeDao.java">
           <value>
             <set />
@@ -148,12 +213,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/main/java/com/facishare/paas/workflow/workflow/biz/WorkflowBizOperationBiz.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/main/java/com/facishare/paas/workflow/workflow/biz/WorkflowRuleBiz.java">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/main/java/com/facishare/paas/workflow/workflow/biz/WorkflowTrigger.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/main/java/com/facishare/paas/workflow/workflow/dao/WorkflowBizOperationDao.java">
           <value>
             <set />
           </value>
@@ -188,6 +263,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/main/java/com/facishare/paas/workflow/workflow/entity/WorkflowBizOperation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/main/java/com/facishare/paas/workflow/workflow/entity/WorkflowRule.java">
           <value>
             <set />
@@ -204,6 +284,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/main/java/com/facishare/paas/workflow/workflow/service/impl/WorkFlowRuleDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/main/java/com/facishare/paas/workflow/workflow/service/impl/WorkflowBizOperationService.java">
           <value>
             <set />
           </value>
@@ -234,6 +319,16 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/main/webapp/WEB-INF/dubbo-provider.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/test/java/com/facishare/paas/workflow/biz/WorkflowBizOperationBizTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/test/java/com/facishare/paas/workflow/biz/WorkflowBizOperationDaoTest.java">
           <value>
             <set />
           </value>
