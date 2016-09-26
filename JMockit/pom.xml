@@ -11,24 +11,12 @@
 
     <artifactId>JMockitDemo</artifactId>
     <dependencies>
-        <!-- https://mvnrepository.com/artifact/org.jmockit/jmockit -->
-        <!--<dependency>-->
-            <!--<groupId>org.jmockit</groupId>-->
-            <!--<artifactId>jmockit</artifactId>-->
-            <!--<version>1.27</version>-->
-        <!--</dependency>-->
-        <!-- https://mvnrepository.com/artifact/org.projectlombok/lombok -->
+
         <dependency>
-            <groupId>org.projectlombok</groupId>
-            <artifactId>lombok</artifactId>
-            <version>1.16.10</version>
+            <groupId>org.apache.commons</groupId>
+            <artifactId>commons-lang3</artifactId>
+            <version>3.4</version>
         </dependency>
-        <!-- https://mvnrepository.com/artifact/org.jmockit/jmockit-coverage -->
-        <!--<dependency>-->
-            <!--<groupId>org.jmockit</groupId>-->
-            <!--<artifactId>jmockit-coverage</artifactId>-->
-            <!--<version>1.23</version>-->
-        <!--</dependency>-->
 
         <!-- jmockit 单元测试使用 -->
         <dependency>
