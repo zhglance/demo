@@ -18,12 +18,112 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/CallBackDemo/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/CallBackDemo/src/main/java/com/callback/Li.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/CallBackDemo/src/main/java/com/callback/WangCallBack.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/CallBackDemo/src/main/java/com/callback/efeg.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/CallBackDemo/src/main/java/com/callback/est.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/CallBackDemo/src/main/java/com/callback/ewe.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/CallBackDemo/src/main/java/com/callback/wetrt.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Demo123/pom.xml">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/Demo123/src/test/java/Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/EventBusDemo/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/EventBusDemo/src/main/java/asdf.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/EventBusDemo/src/main/java/com/lance/google/event/bus/DataObserver1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/EventBusDemo/src/main/java/com/lance/google/event/bus/DataObserver2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/EventBusDemo/src/main/java/com/lance/google/event/bus/EventBusCenter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/EventBusDemo/src/main/java/com/lance/google/event/bus/EventBusFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/EventBusDemo/src/main/java/com/lance/google/event/bus/Observer1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/EventBusDemo/src/main/java/com/lance/google/event/bus/Observer2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/EventBusDemo/src/main/java/com/lance/google/event/bus/Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/EventBusDemo/src/main/java/com/lance/google/event/bus/asdf.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/EventBusDemo/src/main/java/com/lance/google/event/bus/fsdg.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/EventBusDemo/src/main/java/com/lance/google/event/bus/fsdga.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/EventBusDemo/src/main/java/com/lance/google/event/bus/sdgs.java">
           <value>
             <set />
           </value>
@@ -173,6 +273,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/RocketMQDemo/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/RocketMQDemo/src/main/java/MyListener.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Test/src/main/java/Long2Date.java">
           <value>
             <set />
@@ -184,6 +294,16 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/Test/src/main/java/TestCase.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Test/src/main/java/ThreadTimeout.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Test/src/main/java/etwrt.java">
           <value>
             <set />
           </value>
@@ -218,12 +338,77 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-api/src/main/java/com/facishare/paas/message/arg/QixinMessageArg.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-api/src/main/java/com/facishare/paas/message/arg/QixinSessionCategory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-api/src/main/java/com/facishare/paas/message/arg/TemplateArg.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-api/src/main/java/com/facishare/paas/message/exception/MessageException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-api/src/main/java/com/facishare/paas/message/object/PeriodicQixinMessageObject.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-api/src/main/java/com/facishare/paas/message/object/Receiver.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-api/src/main/java/com/facishare/paas/message/object/TimingQixinMessageObject.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-api/src/main/java/com/facishare/paas/message/service/api/QixinMessageService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-api/src/main/java/com/facishare/paas/message/service/api/TemplateService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-api/src/main/java/com/facishare/paas/message/service/impl/TemplateServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-common/src/main/java/com/facishare/paas/message/common/exception/MessageException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-provider/logs/workflow-provider.log">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-provider/pom.xml">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-provider/src/main/java/com/facishare/paas/message/Entity/RemindMessageEntity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-provider/src/main/java/com/facishare/paas/message/PeriodicMessageDao.java">
           <value>
             <set />
           </value>
@@ -238,12 +423,87 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-provider/src/main/java/com/facishare/paas/message/biz/MetaDataServiceBiz.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-provider/src/main/java/com/facishare/paas/message/biz/QiXinServiceBiz.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-provider/src/main/java/com/facishare/paas/message/biz/RocketMQProducerBiz.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-provider/src/main/java/com/facishare/paas/message/biz/TemplateAnalysisBiz.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-provider/src/main/java/com/facishare/paas/message/constant/Constant.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-provider/src/main/java/com/facishare/paas/message/constant/ExecuteState.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-provider/src/main/java/com/facishare/paas/message/constant/MessageConstant.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-provider/src/main/java/com/facishare/paas/message/dao/PeriodicMessageDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-provider/src/main/java/com/facishare/paas/message/dao/QixinPeriodicMessageDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-provider/src/main/java/com/facishare/paas/message/dao/QixinTimingMessageDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-provider/src/main/java/com/facishare/paas/message/dao/TemplateDao.java">
           <value>
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-provider/src/main/java/com/facishare/paas/message/dao/TimingMessageDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-provider/src/main/java/com/facishare/paas/message/entity/BaseBizEntity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-provider/src/main/java/com/facishare/paas/message/entity/BaseEntity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-provider/src/main/java/com/facishare/paas/message/entity/BizEntity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-provider/src/main/java/com/facishare/paas/message/entity/MailAccountEntity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-provider/src/main/java/com/facishare/paas/message/entity/PeriodicMessageEntity.java">
           <value>
             <set />
           </value>
@@ -258,7 +518,27 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-provider/src/main/java/com/facishare/paas/message/entity/TimingMessageEntity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-provider/src/main/java/com/facishare/paas/message/job/PeriodicQixinRemindJob.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-provider/src/main/java/com/facishare/paas/message/job/PeriodicRemindJob.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-provider/src/main/java/com/facishare/paas/message/job/RegularRemindJob.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-provider/src/main/java/com/facishare/paas/message/job/TimingQiXinMEssageJob.java">
           <value>
             <set />
           </value>
@@ -268,7 +548,57 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-provider/src/main/java/com/facishare/paas/message/rocket/MqMessageConsumer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-provider/src/main/java/com/facishare/paas/message/rocket/MqMessageConsumerFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-provider/src/main/java/com/facishare/paas/message/rocket/MqMessageListener.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-provider/src/main/java/com/facishare/paas/message/rocket/MyListener.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-provider/src/main/java/com/facishare/paas/message/rocket/RocketMQSenderFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-provider/src/main/java/com/facishare/paas/message/service/MessageService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-provider/src/main/java/com/facishare/paas/message/service/impl/QixinMessageServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-provider/src/main/java/com/facishare/paas/message/service/impl/TemplateServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-provider/src/main/java/com/facishare/paas/message/util/IdUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-provider/src/main/java/com/facishare/paas/message/util/LogUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-provider/src/main/java/com/facishare/paas/message/util/Logger.java">
           <value>
             <set />
           </value>
@@ -293,7 +623,182 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-provider/src/main/webapp/WEB-INF/applicationContext.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-provider/src/main/webapp/WEB-INF/dubbo-consumer.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-provider/src/main/webapp/WEB-INF/dubbo-provider.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-provider/src/main/webapp/WEB-INF/meta-context.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-provider/src/main/webapp/WEB-INF/spring-cms.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-provider/src/test/java/MailAccountTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-provider/src/test/java/PushSessionServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-provider/src/test/java/com/facishare/paas/message/RocketMQConsumerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-provider/src/test/java/com/facishare/paas/message/RocketMQProducerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-provider/src/test/java/com/facishare/paas/message/biz/JobTimeSignLockBizTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-provider/src/test/java/com/facishare/paas/message/dao/JobTimeSignLockDaoTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-provider/src/test/java/com/facishare/paas/message/dao/MyListener.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-provider/src/test/java/com/facishare/paas/message/dao/QixinPeriodicMessageDaoTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-provider/src/test/java/com/facishare/paas/message/dao/RocketMQConsumerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-provider/src/test/java/com/facishare/paas/message/dao/RocketMQProducerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-provider/src/test/java/com/facishare/paas/message/dao/RocketMQTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-provider/src/test/java/com/facishare/paas/message/dao/TimingMessageDaoTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-provider/src/test/java/com/facishare/paas/message/job/ExecutorServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-provider/src/test/java/com/facishare/paas/message/job/JobTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-provider/src/test/java/com/facishare/paas/message/job/PeriodicQixinRemindJobTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-provider/src/test/java/com/facishare/paas/message/job/TimingQiXinMEssageJobTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-provider/src/test/java/com/facishare/paas/message/mail/MailAccountTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-provider/src/test/java/com/facishare/paas/message/meta/MetaInterfaceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-provider/src/test/java/com/facishare/paas/message/qixin/PushSessionServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-provider/src/test/java/com/facishare/paas/message/rocket/MqMessageConsumerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-provider/src/test/java/com/facishare/paas/message/rocketMQ/RocketMQConsumerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-provider/src/test/java/com/facishare/paas/message/rocketMQ/RocketMQProducerBizTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-provider/src/test/java/com/facishare/paas/message/rocketMQ/RocketMQProducerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-provider/src/test/java/com/facishare/paas/message/service/impl/QixinMessageServiceImplTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-provider/src/test/java/com/facishare/paas/message/thread/QixinMessageThreadTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-provider/src/test/java/com/facishare/paas/message/util/TimeUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-provider/src/test/resources/applicationContext.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-provider/target/classes/autoconf/cms-zookeeper">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-provider/target/classes/autoconf/fs-paas-message">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-provider/target/test-classes/autoconf/fs-paas-message">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-provider/target/test-classes/autoconf/mongo-support-message">
           <value>
             <set />
           </value>
@@ -333,6 +838,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-common/src/main/java/com/facishare/paas/workflow/common/exception/WorkflowException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-kernel-provider/src/main/java/com/facishare/paas/workflow/kernel/listener/WfExecuteListener.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-kernel-provider/src/main/java/com/facishare/paas/workflow/kernel/support/ApprovalFlowServiceSupport.java">
           <value>
             <set />
@@ -364,6 +879,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/main/java/com/facishare/paas/workflow/approvalflow/dao/WorkflowScopeDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/main/java/com/facishare/paas/workflow/approvalflow/entity/RemindEntity.java">
           <value>
             <set />
           </value>
@@ -404,6 +924,16 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/main/java/com/facishare/paas/workflow/quartz/TimingTaskManagerImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/main/java/com/facishare/paas/workflow/service/impl/ApprovalFlowCommonServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/main/java/com/facishare/paas/workflow/support/CRMInstanceCancelHandler.java">
           <value>
             <set />
           </value>
@@ -484,6 +1014,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/main/java/com/facishare/paas/workflow/workflow/entity/erwer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/main/java/com/facishare/paas/workflow/workflow/rest/WorkflowTriggerCtrl.java">
           <value>
             <set />
           </value>
@@ -648,6 +1183,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/test/java/com/facishare/paas/workflow/service/impl/ApprovalFlowCommonServiceImplTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/test/java/com/facishare/paas/workflow/service/impl/WorkflowCommonServiceImplTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/test/java/com/facishare/paas/workflow/workflow/service/impl/WorkflowRuleBizTest.java">
           <value>
             <set />
@@ -669,6 +1214,16 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/test/java/com/facishare/paas/worklfow/approvalflow/service/impl/ApprovalFlowXTServiceImplTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/test/resources/applicationContext.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/test/resources/crm.xml">
           <value>
             <set />
           </value>
