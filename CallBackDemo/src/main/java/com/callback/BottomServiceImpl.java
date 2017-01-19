@@ -1,23 +1,20 @@
 package com.callback;
 
 /**
- * 这个是小王
- * @author xiaanming
- * 实现了一个回调接口CallBack，相当于----->背景一
+ * 底层服务
  */
-public class WangCallBack implements CallBack {
+public class BottomServiceImpl implements BottomService {
     /**
-     * 小李对象的引用
-     * 相当于----->背景二
+     * 调用的上层服务
      */
-    private Li li;
+    private UpperService upperService;
 
     /**
      * 小王的构造方法，持有小李的引用
-     * @param li
+     * @param upperService
      */
-    public WangCallBack(Li li){
-        this.li = li;
+    public BottomServiceImpl(UpperService upperService){
+        this.upperService = upperService;
     }
 
     /**
@@ -33,7 +30,7 @@ public class WangCallBack implements CallBack {
                  * 小王调用小李中的方法，在这里注册回调接口
                  * 这就相当于A类调用B的方法C
                  */
-                li.executeMessage(WangCallBack.this, question);
+                upperService.executeMessage(BottomServiceImpl.this, question);
             }
         }).start();
 

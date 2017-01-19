@@ -12,9 +12,6 @@ public class AopTest {
         ApplicationContext ac = new ClassPathXmlApplicationContext("META-INF/aopContext.xml");
 
         Service service = ac.getBean("service",Service.class);
-
-//        Service service = new ServiceImpl();
-
         service.save("### 1232536 #########");
 
 

@@ -11,9 +11,9 @@
     <aop:config>
         <aop:aspect id="logAspect" ref="aspect">
             <aop:pointcut id="allMethod" expression="execution(* com.aop.api.Service.*(..))"/>
-            <aop:before method="before" pointcut-ref="allMethod"/>
-            <aop:after method="after" pointcut-ref="allMethod"/>
-            <aop:after-throwing method="afterThrowing" pointcut-ref="allMethod"/>
+            <!--<aop:before method="before" pointcut-ref="allMethod"/>-->
+            <!--<aop:after method="after" pointcut-ref="allMethod"/>-->
+            <!--<aop:after-throwing method="afterThrowing" pointcut-ref="allMethod"/>-->
             <aop:around method="doAround" pointcut-ref="allMethod"/>
         </aop:aspect>
     </aop:config>

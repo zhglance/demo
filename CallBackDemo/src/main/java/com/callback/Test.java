@@ -2,7 +2,6 @@ package com.callback;
 
 /**
  * 测试类
- * @author xiaanming
  *
  */
 public class Test {
@@ -10,16 +9,16 @@ public class Test {
         /**
          * new 一个小李
          */
-        Li li = new Li();
+        UpperService upperService = new UpperService();
 
         /**
          * new 一个小王
          */
-        WangCallBack wang = new WangCallBack(li);
+        BottomServiceImpl bottomService = new BottomServiceImpl(upperService);
 
         /**
          * 小王问小李问题
          */
-        wang.askQuestion("1 + 1 = ?");
+        bottomService.askQuestion("1 + 1 = ?");
     }
 }

@@ -18,12 +18,82 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/AopDemo/src/main/java/com/aop/aspect/aspect.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/AopDemo/src/main/java/com/aop/impl/ServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/AopDemo/src/main/resources/META-INF/aopContext.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/AopDemo/src/test/java/AopTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/CallBackDemo/pom.xml">
           <value>
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/CallBackDemo/src/main/java/callback/demo/BottomService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/CallBackDemo/src/main/java/callback/demo/Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/CallBackDemo/src/main/java/callback/demo/UpperService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/CallBackDemo/src/main/java/callback/demo/UpperServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/CallBackDemo/src/main/java/com/callback/BottomService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/CallBackDemo/src/main/java/com/callback/BottomServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/CallBackDemo/src/main/java/com/callback/CallBack.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/CallBackDemo/src/main/java/com/callback/CallBackService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/CallBackDemo/src/main/java/com/callback/Li.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/CallBackDemo/src/main/java/com/callback/Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/CallBackDemo/src/main/java/com/callback/UpperService.java">
           <value>
             <set />
           </value>
@@ -49,6 +119,26 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/CallBackDemo/src/main/java/com/callback/wetrt.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/CallBackDemo/src/main/java/synchronization/demo/BottomService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/CallBackDemo/src/main/java/synchronization/demo/Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/CallBackDemo/src/main/java/synchronization/demo/UpperService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/CallBackDemo/src/main/java/synchronization/demo/UpperServiceImpl.java">
           <value>
             <set />
           </value>
@@ -283,6 +373,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Test/src/main/java/Json.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Test/src/main/java/Long2Date.java">
           <value>
             <set />
@@ -299,6 +394,26 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/Test/src/main/java/ThreadTimeout.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Test/src/main/java/construct/ChildrenClass.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Test/src/main/java/construct/CronSequenceGeneratorTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Test/src/main/java/construct/ParentClass.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Test/src/main/java/construct/Test.java">
           <value>
             <set />
           </value>
@@ -773,6 +888,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-provider/src/test/java/com/facishare/paas/message/util/ConfigCenterTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-provider/src/test/java/com/facishare/paas/message/util/TimeUtils.java">
           <value>
             <set />
@@ -808,7 +928,17 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/.gitlab-ci.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../fs-paas-workflow/dep.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-api/src/main/java/com/facishare/paas/workflow/model/object/WfDefinitionObject.java">
           <value>
             <set />
           </value>
@@ -843,7 +973,17 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-kernel-api/src/main/java/com/facishare/paas/workflow/kernel/service/ApprovalFlowKernelService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-kernel-provider/src/main/java/com/facishare/paas/workflow/kernel/listener/WfExecuteListener.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-kernel-provider/src/main/java/com/facishare/paas/workflow/kernel/service/impl/ApprovalFlowKernelServiceImpl.java">
           <value>
             <set />
           </value>
@@ -853,7 +993,27 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-kernel-provider/src/main/java/com/facishare/paas/workflow/kernel/support/EffektifAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-kernel-provider/src/main/java/com/facishare/paas/workflow/kernel/support/WorkflowBizOperator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-kernel-provider/src/main/resources/applicationContext.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-kernel-provider/src/main/resources/dubbo-consumer.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-kernel-provider/src/test/java/com/facishare/paas/workflow/kernel/test/ApprovalFlowKernelTest.java">
           <value>
             <set />
           </value>
@@ -898,6 +1058,41 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/main/java/com/facishare/paas/workflow/dao/TaskDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/main/java/com/facishare/paas/workflow/entity/WorkflowEntity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/main/java/com/facishare/paas/workflow/entity/WorkflowInstanceEntity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/main/java/com/facishare/paas/workflow/external/crm/CRMLog.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/main/java/com/facishare/paas/workflow/listener/NoticeListener.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/main/java/com/facishare/paas/workflow/listener/WfEventBus.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/main/java/com/facishare/paas/workflow/listener/event/TodoTaskEvent.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/main/java/com/facishare/paas/workflow/nashorn/ExpressionFactory.java">
           <value>
             <set />
@@ -933,7 +1128,37 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/main/java/com/facishare/paas/workflow/service/impl/WorkflowCommonServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/main/java/com/facishare/paas/workflow/service/impl/WorkflowExecuteNotifyServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/main/java/com/facishare/paas/workflow/support/CRMAfterTaskInsertHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/main/java/com/facishare/paas/workflow/support/CRMCompleteTaskHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/main/java/com/facishare/paas/workflow/support/CRMInstanceCancelHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/main/java/com/facishare/paas/workflow/support/CRMTaskQueryHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/main/java/com/facishare/paas/workflow/util/WfComparators.java">
           <value>
             <set />
           </value>
@@ -1088,7 +1313,17 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/test/java/com/facishare/paas/workflow/Integration/BizOperationListenerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/test/java/com/facishare/paas/workflow/Integration/WorkflowIntegrationTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/test/java/com/facishare/paas/workflow/Integration/WorkflowTest.java">
           <value>
             <set />
           </value>
@@ -1153,6 +1388,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/test/java/com/facishare/paas/workflow/groovy/ApprovalFlowCommonServiceTest.groovy">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/test/java/com/facishare/paas/workflow/groovy/WorkflowRuleDaoGroovyTest.groovy">
           <value>
             <set />
@@ -1179,6 +1419,16 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/test/java/com/facishare/paas/workflow/quartz/twet.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/test/java/com/facishare/paas/workflow/service/ApprovalFlowCommonServiceTmpTest.groovy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/test/java/com/facishare/paas/workflow/service/OrgnizationServiceTmpTest.groovy">
           <value>
             <set />
           </value>
@@ -1229,6 +1479,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/src/test/resources/dubbo-consumer.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/run-test.sh">
           <value>
             <set />
           </value>
