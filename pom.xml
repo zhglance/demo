@@ -23,6 +23,10 @@
         <module>RocketMQDemo</module>
         <module>CallBackDemo</module>
         <module>EventBusDemo</module>
+        <module>MetricDemo</module>
+        <module>SwaggerDemo</module>
+        <module>GoogleProtobufDemo</module>
+        <module>JUnitParamsDemo</module>
     </modules>
 
     <dependencies>
