@@ -38,6 +38,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../Groovy/src/groovy/GroovyDemo.groovy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Groovy/src/groovy/GroovyDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../SpringBootDemo/src/main/java/com/spring/boot/demo/SpringBootDemoApplication.java">
           <value>
             <set />
@@ -308,7 +318,17 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/GroovyDemo.groovy">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/GroovyDemo/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/GroovyDemo/src/GroovyDemo.groovy">
           <value>
             <set />
           </value>
@@ -319,6 +339,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/GroovyDemo/src/main/java/Dao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/GroovyDemo/src/main/java/GroovyDemo.groovy">
           <value>
             <set />
           </value>
@@ -444,6 +469,31 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/JetbrickDemo/src/test/java/demo/JetxTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/JodaTimeDemo/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/JodaTimeDemo/src/main/java/DateTimeUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/JodaTimeDemo/src/main/java/com/joda/time/utils/DateTimeFormatterTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/JodaTimeDemo/src/main/java/com/joda/time/utils/DateTimeUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/JodaTimeDemo/src/test/java/com/joda/time/utils/DateTimeUtilsTest.java">
           <value>
             <set />
           </value>
@@ -763,6 +813,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/protocol-buffer-demo/src/main/java/com/rhwayfun/demo/asf.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../settings.xml">
           <value>
             <set />
@@ -774,6 +829,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../fs-paas-auth/fs-paas-auth-provider/src/main/webapp/WEB-INF/dubbo-provider.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-auth/fs-paas-auth-provider/src/test/java/FieldAccessTest.groovy">
           <value>
             <set />
           </value>
@@ -1558,6 +1618,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-provider/src/test/java/groovy/com/facishare/paas/message/service/impl/QixinMessageServiceImplTest.groovy">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../fs-paas-message/fs-paas-message-provider/src/test/resources/applicationContext.xml">
           <value>
             <set />
@@ -1729,6 +1794,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-kernel-provider/src/test/resources/dubbo.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fs-paas-workflow/fs-paas-workflow-provider/logs/workflow-provider.log">
           <value>
             <set />
           </value>

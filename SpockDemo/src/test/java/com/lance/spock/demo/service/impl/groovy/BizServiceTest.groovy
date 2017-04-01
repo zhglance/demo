@@ -18,7 +18,7 @@ public class BizServiceTest extends Specification {
     @Autowired
     private BizServiceImpl bizService;
 
-     Dao dao = Mock(Dao)  // 生成dao的Mock对象
+    Dao dao = Mock(Dao)  // 生成dao的Mock对象
 
     /**
      * Spock和Junit类似也将单元测试划分成了多个阶段
@@ -38,7 +38,7 @@ public class BizServiceTest extends Specification {
 
         ApplicationContext ac = new ClassPathXmlApplicationContext("classpath:applicationContext.xml");
         bizService = ac.getBean(BizService.class)
-//        bizService.h.advised.targetSource.target.dao = dao;
+         bizService.h.advised.targetSource.target.dao = dao;
         bizService.setDao(dao)
 
     }

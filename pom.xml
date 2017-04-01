@@ -27,6 +27,8 @@
         <module>SwaggerDemo</module>
         <module>GoogleProtobufDemo</module>
         <module>JUnitParamsDemo</module>
+        <module>GroovyDemo</module>
+        <module>JodaTimeDemo</module>
     </modules>
 
     <dependencies>
