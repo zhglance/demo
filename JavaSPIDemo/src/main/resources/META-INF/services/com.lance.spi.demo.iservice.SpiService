@@ -1,0 +1,2 @@
+com.lance.spi.demo.service.impl.ComplexSpiServiceImpl
+com.lance.spi.demo.service.impl.SimpleSpiServiceImpl

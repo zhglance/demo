@@ -29,6 +29,7 @@
         <module>JUnitParamsDemo</module>
         <module>GroovyDemo</module>
         <module>JodaTimeDemo</module>
+        <module>JavaSPIDemo</module>
     </modules>
 
     <dependencies>
